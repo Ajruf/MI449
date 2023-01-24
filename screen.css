@@ -5,7 +5,6 @@ body {
     margin: auto;
     color: #242424;
     background:white;
-    border: 1px solid #aaa;
 }
 header{
     display: flex;
