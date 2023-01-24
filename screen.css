@@ -47,8 +47,8 @@ section {
   border-radius: 20px;
 }
 .example {
-  width: 314px;
-  height: 303px;
+  width: 349px;
+  height: 338px;
   font-size: 1.075em;
   background:#E9EAEC;
   grid-column: 2 / 4;
@@ -62,6 +62,7 @@ section {
 }
 .exampleheader {
     padding-top: 15px;
+    padding-left: 35px;
 }
 .exampletext {
     padding-left: 35px;
