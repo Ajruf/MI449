@@ -10,10 +10,10 @@ body {
 header{
     display: flex;
     margin-top: 100px;
-    margin-left: 20px;
 }
 header img {
     margin-top: 20px;
+    margin-left: 20px;
 }
 section {
    display: grid;
