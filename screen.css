@@ -17,12 +17,16 @@ section {
    grid-gap: 32px;
 }
 .image {
-  width: 800px;
+  width: 50%;
+  overflow: hidden;
   height: 227px;
   grid-column: 1 / 3;
   grid-row: 1;
   border-radius: 20px;
-  
+  border: 1px solid #aaa;
+}
+.image img {
+  width: 100%;
 }
 .text {
   padding-left: 35px;
@@ -47,4 +51,7 @@ section {
   grid-column: 2 / 4;
   grid-row: 2;
   border-radius: 20px;
+}
+.examplecode {
+  border: 1px solid #aaa;
 }
