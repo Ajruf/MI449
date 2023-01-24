@@ -24,6 +24,9 @@ section {
   border-radius: 20px;
   border: 1px solid #aaa;
 }
+.image img {
+    border-radius: 20px;
+}
 
 .text {
   padding-left: 35px;
@@ -51,7 +54,5 @@ section {
 }
 .examplecode {
   border: 1px solid #aaa;
-  width: 300px;
-  height: 200px;
 }
 
