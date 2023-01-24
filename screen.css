@@ -11,6 +11,9 @@ header{
     display: flex;
     margin-top: 100px;
 }
+header img {
+    margin: auto;
+}
 section {
    display: grid;
    grid-template-columns: 1fr 1fr;
