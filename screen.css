@@ -25,11 +25,13 @@ section {
   
 }
 .text {
-  padding: 35px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 15px;
   background:#E9EAEC;
   width: 314px;
   height: 303px;
-  font-size: 1.15em;
+  font-size: 1.075em;
   grid-column: 1;
   grid-row: 2;
   border-radius: 20px;
@@ -37,11 +39,12 @@ section {
 .example {
   width: 314px;
   height: 303px;
-  padding: 35px;
-  font-size: 1.15em;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-top: 15px;
+  font-size: 1.075em;
   background:#E9EAEC;
   grid-column: 2 / 4;
   grid-row: 2;
   border-radius: 20px;
 }
-
