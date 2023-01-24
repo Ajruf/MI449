@@ -59,7 +59,9 @@ section {
   grid-row: 2;
   border-radius: 20px;
 }
-.examplecode {
+.examplecode img {
   border: 1px solid #aaa;
+  width: 250px;
+  height: 250px;
 }
 
